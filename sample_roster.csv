@@ -1,0 +1,11 @@
+name,clearance_level,access_status,sap_indoctrination_date,clearance_expiration_date,last_training_date
+Jane Rivera,TS/SCI,Active,2024-03-15,2029-03-15,2026-02-10
+Marcus Hale,Secret,Active,2023-07-01,2026-12-05,2026-10-01
+Dana Whitfield,TS,Active,2022-01-20,2026-09-30,2025-11-15
+Leo Nakamura,Secret,Active,2024-05-10,2028-05-10,2024-08-01
+Priya Anand,TS/SCI,Active,2025-02-01,2030-02-01,2026-09-20
+Tomas Herrera,Confidential,Active,2021-11-01,2026-11-25,2026-01-05
+Grace Okafor,TS,Active,2023-09-15,2027-09-15,2026-11-01
+Victor Cho,Secret,Active,2022-04-04,2026-06-30,2026-03-10
+Sarah Lindqvist,TS/SCI,Active,2024-12-01,2029-12-01,2025-10-30
+Omar Haddad,Confidential,Suspended,2025-06-15,2024-05-15,2026-07-01
